@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Get my location</string>
+    <string name="getLocationButton">Press to get location</string>
+    <string name="mainText">The coordinates will appear here</string>
+</resources>
